@@ -59,6 +59,7 @@ Por esto, no queremos abordar únicamente la publicación de proyectos ni única
 * No sabemos qué características serían más importantes para que los estudiantes confíen en una plataforma de este tipo y realmente la utilicen.
 * Todavía necesitamos validar si los estudiantes prefieren descubrir proyectos existentes, publicar sus propias ideas o ambas opciones.
 * No está completamente claro cuánto acompañamiento debería ofrecer la plataforma frente al papel que actualmente cumplen los docentes y mentores.
+* No sabemos cómo se puede llevar el seguimiento de proyectos de diferentes áreas.
 
 ---
 
