@@ -16,7 +16,7 @@
 
 **Nombre de la iniciativa o empresa (si aplica):** Modelo predictivo de demanda de servicios en salud ocupacional (proyecto desarrollado para empresa del sector, en el marco de un concurso de matemáticas aplicadas)
 
-**Persona entrevistada:** Judy Pérez
+**Persona entrevistada:** Judith Pérez
 
 **Rol dentro de la iniciativa:** Ingeniera de sistemas del equipo, encargada de la parte visual/desarrollo
 
