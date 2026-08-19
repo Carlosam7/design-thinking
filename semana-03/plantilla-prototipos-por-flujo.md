@@ -94,41 +94,39 @@ Un estudiante con una idea desea crear una propuesta de innovación clara y atra
 
 ## Flujo 2
 
-**Nombre del flujo:**
+**Nombre del flujo:** Descubrir y unirse a un proyecto
 
 **¿Qué quiere lograr el usuario en este flujo?**
 
+Un estudiante que aún no tiene una idea propia, pero sí interés y habilidades con las que puede aportar al desarrollo de una idea de innovación. El estudiante quiere encontrar un proyecto existente que le interese y postularse para unirse al equipo.
+
 ### Versión A: paso a paso
 
-1. El usuario...
-2. Luego...
-3. Después...
-4. Finalmente...
+1. El usuario navega el feed vertical de proyectos desde la pantalla principal.
+2. Toca "Ver más" en un proyecto que le interesa.
+3. Revisa el detalle del proyecto.
+4. Completa la postulación.
+5. Recibe la confirmación de que su postulación fue enviada.
 
 ### Versión A: pantallas o momentos clave
 
-1.
-2.
-3.
-4.
+1. Pantalla "Feed vertical"
+2. Pantalla "Detalle del proyecto"
+3. Pantalla "Postulación"
+4. Pantalla "Confirmación"
 
 ### Versión B: paso a paso
 
-1. El usuario...
-2. Luego...
-3. Después...
-4. Finalmente...
+
 
 ### Versión B: pantallas o momentos clave
 
-1.
-2.
-3.
-4.
+
 
 ### Evidencia en Figma
 
 **Enlace versión A:**
+*figma*: https://www.figma.com/design/iIRGqKt2X4FIuFm0N6cvSy/DisgnThinking?node-id=2-3&t=OtbySsItNRSYI47x-1
 
 **Enlace versión B:**
 
@@ -136,21 +134,20 @@ Un estudiante con una idea desea crear una propuesta de innovación clara y atra
 
 **¿Con quién se probó este flujo?**
 
+Yohanna y Sebastian (Posibles Usuarios).
+
 **¿Qué reacción generó la versión A?**
 
-- 
-- 
-- 
+- Yohanna: le costó unos minutos entender el feed principal; esperaba que se desplazara horizontalmente para encontrar los proyectos; recomienda agregar un filtro por rol/puesto al que se quiere postular. El resto del flujo lo completó sin dificultad.
+- Sebastian: no tuvo ninguna dificultad con el flujo; le pareció sencillo; dio el visto bueno a la paleta de colores y la distribución de los espacios.
 
 **¿Qué reacción generó la versión B?**
 
-- 
-- 
-- 
+
 
 ### Versión seleccionada para la semana 4
 
-**Versión elegida:**
+**Versión elegida:** Versión A elegida, ambos completaron el flujo, sin trabas graves.
 
 **¿Por qué?**
 
