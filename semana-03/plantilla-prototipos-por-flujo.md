@@ -67,6 +67,7 @@ Un estudiante con una idea desea crear una propuesta de innovación clara y atra
 ### Resultado de la validación exploratoria
 
 **¿Con quién se probó este flujo?**
+Estudiante universitario con una idea concreta de proyecto de innovación y habilidades adquiridas en su formación académica, pero sin experiencia previa en procesos formales de innovación
 
 **¿Qué reacción generó la versión A?**
 
@@ -82,13 +83,13 @@ Un estudiante con una idea desea crear una propuesta de innovación clara y atra
 
 ### Versión seleccionada para la semana 4
 
-**Versión elegida:**
+**Versión elegida:** versión B
 
 **¿Por qué?**
 
-- 
-- 
-- 
+- Resuelve directamente las dos fricciones detectadas en la versión A: la dificultad para editar apartados anteriores (ahora todas las secciones están en un mismo formulario) y la inconformidad con agregar habilidades (ahora hay etiquetas predeterminadas, además de la opción personalizada).
+- La vista previa antes de publicar genera mayor seguridad al confirmar, algo que la versión A no ofrecía.
+- Conserva la comodidad general que ya tenía la versión A para completar los pasos, sin heredar sus puntos de fricción.
 
 ---
 
@@ -156,18 +157,6 @@ Yohanna y Sebastian (Posibles Usuarios).
 ### Versión seleccionada para la semana 4
 
 **Versión elegida:** Versión A elegida, ambos completaron el flujo, sin trabas graves.
-
-**¿Por qué?**
-
-- 
-- 
-- 
-
----
-
-### Versión seleccionada para la semana 4
-
-**Versión elegida:**
 
 **¿Por qué?**
 
