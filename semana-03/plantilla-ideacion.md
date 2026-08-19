@@ -63,15 +63,6 @@ Un estudiante que aún no tiene una idea propia, pero sí interés y habilidades
 **¿Por qué este flujo es importante?**
 
 Es un flujo que responde directamente al hallazgo de Laura: tener habilidades e interés no es suficiente cuando no existe una manera clara de encontrar dónde participar. Junto con el Flujo 1, permite comparar ambos caminos de conexión con evidencia real.
-
-### Flujo 3
-
-**Nombre del flujo:** Gestionar y visualizar el progreso de un proyecto
-
-**¿Qué quiere lograr el usuario en este flujo?**
-
-Los integrantes de un proyecto quieren consultar el estado de su proyecto, organizar sus próximos pasos y compartir actualizaciones sobre el progreso realizado.
-
 **¿Por qué este flujo es importante?**
 
 Permite que la aplicación no se limite a conectar estudiantes, sino que también proporcione una estructura básica para continuar trabajando después de formar el equipo. Además, ayuda a mantener visible el avance del proyecto y facilita que sus integrantes tengan un punto central para consultar su estado.
