@@ -144,7 +144,7 @@ Un estudiante que aún no tiene una idea propia, pero sí interés y habilidades
 **¿Con quién se probó este flujo?**
 
 Yohanna y Sebastian (Versión A).
-Alberto y Laura (Versión B).
+Alberto y Kiara (Versión B).
 
 **¿Qué reacción generó la versión A?**
 
