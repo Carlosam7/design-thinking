@@ -46,17 +46,17 @@ Un estudiante con una idea desea crear una propuesta de innovación clara y atra
 
 ### Versión B: paso a paso
 
-1. El usuario...
-2. Luego...
-3. Después...
-4. Finalmente...
+1. El usuario toca el icono de '+' desde la pantalla principal.
+2. Completa la información del proyecto en un único formulario dividido por secciones: información básica, habilidades requeridas y configuración del proyecto.
+3. Selecciona habilidades predeterminadas mediante etiquetas y puede agregar una habilidad personalizada. También puede editar cualquier sección del formulario sin tener que regresar entre diferentes pantallas.
+4. Revisa una vista previa de la propuesta y confirma la publicación de la idea.
 
 ### Versión B: pantallas o momentos clave
 
-1.
-2.
-3.
-4.
+1. Pantalla "Creación del proyecto" con información básica, descripción, imágenes y archivos.
+2. Sección "Habilidades requeridas y configuración" con habilidades predeterminadas, habilidades personalizadas, número máximo de integrantes y categoría.
+3. Pantalla "Vista previa" con el resumen completo de la propuesta.
+4. Pantalla "Confirmación de publicación" indicando que la idea fue publicada correctamente.
 
 ### Evidencia en Figma
 
@@ -76,9 +76,9 @@ Un estudiante con una idea desea crear una propuesta de innovación clara y atra
 
 **¿Qué reacción generó la versión B?**
 
-- 
-- 
-- 
+- Mayor facilidad para modificar la información del proyecto al tener las diferentes secciones disponibles en un mismo formulario.
+- Las habilidades predeterminadas facilitan el proceso de selección y hacen más rápido el diligenciamiento.
+- La vista previa permite revisar la propuesta antes de publicarla y genera mayor seguridad al momento de confirmar.
 
 ### Versión seleccionada para la semana 4
 
