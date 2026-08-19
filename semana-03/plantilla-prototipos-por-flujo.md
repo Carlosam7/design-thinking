@@ -148,8 +148,8 @@ Alberto y Kiara (Versión B).
 
 **¿Qué reacción generó la versión A?**
 
-- Yohanna: le costó unos minutos entender el feed principal; esperaba que se desplazara horizontalmente para encontrar los proyectos; recomienda agregar un filtro por rol/puesto al que se quiere postular. El resto del flujo lo completó sin dificultad.
-- Sebastian: no tuvo ninguna dificultad con el flujo; le pareció sencillo; dio el visto bueno a la paleta de colores y la distribución de los espacios.
+- Yohanna, estudiante de psicologia: le costó unos minutos entender el feed principal; esperaba que se desplazara horizontalmente para encontrar los proyectos; recomienda agregar un filtro por rol/puesto al que se quiere postular. El resto del flujo lo completó sin dificultad.
+- Sebastian, estudiante de ingeniería: no tuvo ninguna dificultad con el flujo; le pareció sencillo; dio el visto bueno a la paleta de colores y la distribución de los espacios.
 
 **¿Qué reacción generó la versión B?**
 - Alberto, estudiante de medicina: Encontró el flujo bastante intuitivo y mencionó que le recordaba a X. Como sugerencia, propuso incorporar filtros o recomendaciones personalizadas, aunque reconocemos que esa funcionalidad correspondería a una etapa posterior de implementación.
@@ -163,6 +163,6 @@ Alberto y Kiara (Versión B).
 
 **¿Por qué?**
 
-- 
-- 
-- 
+- Ambos usuarios completaron el flujo completo (feed, detalle, postulación, confirmación) sin bloqueos.
+- Sebastian no reportó ninguna dificultad y validó la paleta de colores y la distribución de espacios.
+- Yohanna solo tuvo una curva de aprendizaje breve con el feed vertical, resuelta en pocos minutos, sin abandonar el flujo.
