@@ -117,11 +117,18 @@ Un estudiante que aún no tiene una idea propia, pero sí interés y habilidades
 
 ### Versión B: paso a paso
 
-
+1. El usuario ingresa a la aplicación y aterriza en el feed (pantalla principal), donde se muestra un catálogo de proyectos disponibles.
+2. El usuario explora el feed mediante scroll, buscando proyectos que coincidan con sus intereses o habilidades.
+3. El usuario selecciona un proyecto (tap/click), lo que lo lleva a la pantalla de detalle, donde puede ver información ampliada: descripción, equipo actual, habilidades requeridas y estado del proyecto.
+4. El usuario solicita unirse al proyecto mediante el botón "Unirse", enviando una solicitud al líder o creador del proyecto.
+5. El usuario queda en estado de espera ("Pendiente de aprobación") hasta que el líder del proyecto acepte o rechace la solicitud.
 
 ### Versión B: pantallas o momentos clave
 
-
+1. Feed / Catálogo de proyectos
+2. Momento de exploración (scroll)
+3. Pantalla de detalle del proyecto
+4. Acción de solicitar unirse
 
 ### Evidencia en Figma
 
