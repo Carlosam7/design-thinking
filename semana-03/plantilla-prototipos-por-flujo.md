@@ -62,7 +62,7 @@ Un estudiante con una idea desea crear una propuesta de innovación clara y atra
 
 **Enlace versión A:** https://www.figma.com/proto/TpghlJuAkL2zenKisWcBID/Untitled?node-id=0-1&t=mFsxh70WQDMbNQme-1
 
-**Enlace versión B:**
+**Enlace versión B:** https://www.figma.com/proto/wJShyFv0tjzFNhtRz59I1V/prog-movil?node-id=0-1&p=f&t=Y3MJHcalvkwzZGGI-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&fuid=1671751449188484498
 
 ### Resultado de la validación exploratoria
 
