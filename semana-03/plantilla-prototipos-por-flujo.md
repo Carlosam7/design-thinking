@@ -137,13 +137,14 @@ Un estudiante que aún no tiene una idea propia, pero sí interés y habilidades
 *figma*: https://www.figma.com/design/iIRGqKt2X4FIuFm0N6cvSy/DisgnThinking?node-id=2-3&t=OtbySsItNRSYI47x-1
 
 **Enlace versión B:**
-*figma*: https://www.figma.com/design/8ahFJjTreRCpVZPIe42V4Q/Design-Thinking-Esteban-Arnedo?node-id=0-1&t=i1Ghv0hGwUjNACVl-1
+*figma*: https://www.figma.com/proto/8ahFJjTreRCpVZPIe42V4Q/Design-Thinking-Esteban-Arnedo?node-id=16-191&t=nvbTTcOtmSF6Jc9N-1&starting-point-node-id=16%3A191
 
 ### Resultado de la validación exploratoria
 
 **¿Con quién se probó este flujo?**
 
-Yohanna y Sebastian (Posibles Usuarios).
+Yohanna y Sebastian (Versión A).
+Alberto y Laura (Versión B).
 
 **¿Qué reacción generó la versión A?**
 
@@ -151,8 +152,10 @@ Yohanna y Sebastian (Posibles Usuarios).
 - Sebastian: no tuvo ninguna dificultad con el flujo; le pareció sencillo; dio el visto bueno a la paleta de colores y la distribución de los espacios.
 
 **¿Qué reacción generó la versión B?**
-
-
+- Alberto: Encontró el flujo bastante intuitivo y mencionó que le recordaba a X. Como sugerencia, propuso incorporar filtros o recomendaciones personalizadas, aunque reconocemos que esa funcionalidad correspondería a una etapa posterior de implementación.
+- Kiara: Estudiante de diseño, también encontró el flujo muy intuitivo. Sin embargo, hizo dos observaciones:
+  1. Recomendó que la pantalla de detalles ponga más énfasis en la información del proyecto en sí, y menos peso visual en los comentarios.
+  2. Señaló que el botón "Unirse" se siente más como un botón de "seguir" (follow), en lugar de transmitir la acción de unirse activamente a un equipo de trabajo.
 
 ### Versión seleccionada para la semana 4
 
