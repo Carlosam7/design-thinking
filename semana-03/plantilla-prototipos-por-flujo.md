@@ -129,6 +129,7 @@ Un estudiante que aún no tiene una idea propia, pero sí interés y habilidades
 *figma*: https://www.figma.com/design/iIRGqKt2X4FIuFm0N6cvSy/DisgnThinking?node-id=2-3&t=OtbySsItNRSYI47x-1
 
 **Enlace versión B:**
+*figma*: https://www.figma.com/design/8ahFJjTreRCpVZPIe42V4Q/Design-Thinking-Esteban-Arnedo?node-id=0-1&t=i1Ghv0hGwUjNACVl-1
 
 ### Resultado de la validación exploratoria
 
