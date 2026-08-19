@@ -152,8 +152,8 @@ Alberto y Laura (Versión B).
 - Sebastian: no tuvo ninguna dificultad con el flujo; le pareció sencillo; dio el visto bueno a la paleta de colores y la distribución de los espacios.
 
 **¿Qué reacción generó la versión B?**
-- Alberto: Encontró el flujo bastante intuitivo y mencionó que le recordaba a X. Como sugerencia, propuso incorporar filtros o recomendaciones personalizadas, aunque reconocemos que esa funcionalidad correspondería a una etapa posterior de implementación.
-- Kiara: Estudiante de diseño, también encontró el flujo muy intuitivo. Sin embargo, hizo dos observaciones:
+- Alberto, estudiante de medicina: Encontró el flujo bastante intuitivo y mencionó que le recordaba a X. Como sugerencia, propuso incorporar filtros o recomendaciones personalizadas, aunque reconocemos que esa funcionalidad correspondería a una etapa posterior de implementación.
+- Kiara, Estudiante de diseño: también encontró el flujo muy intuitivo. Sin embargo, hizo dos observaciones:
   1. Recomendó que la pantalla de detalles ponga más énfasis en la información del proyecto en sí, y menos peso visual en los comentarios.
   2. Señaló que el botón "Unirse" se siente más como un botón de "seguir" (follow), en lugar de transmitir la acción de unirse activamente a un equipo de trabajo.
 
