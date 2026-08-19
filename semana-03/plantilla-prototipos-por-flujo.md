@@ -60,7 +60,7 @@ Un estudiante con una idea desea crear una propuesta de innovación clara y atra
 
 ### Evidencia en Figma
 
-**Enlace versión A:** https://www.figma.com/design/TpghlJuAkL2zenKisWcBID/Untitled?node-id=2018-44&t=mFsxh70WQDMbNQme-1
+**Enlace versión A:** https://www.figma.com/proto/TpghlJuAkL2zenKisWcBID/Untitled?node-id=0-1&t=mFsxh70WQDMbNQme-1
 
 **Enlace versión B:**
 
@@ -70,9 +70,9 @@ Un estudiante con una idea desea crear una propuesta de innovación clara y atra
 
 **¿Qué reacción generó la versión A?**
 
-- 
-- 
-- 
+- Comodidad para desarrollar la mayoría de los pasos del flujo y llenar lo requerido.
+- Dificultades para cambiar o editar apartados anteriores.
+- Inconformidad con el apartado de agregar habilidades. Sugiere opciones predeterminadas para elegir.
 
 **¿Qué reacción generó la versión B?**
 
