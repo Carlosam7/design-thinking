@@ -67,6 +67,7 @@ Un estudiante con una idea desea crear una propuesta de innovación clara y atra
 ### Resultado de la validación exploratoria
 
 **¿Con quién se probó este flujo?**
+Estudiante universitario con una idea concreta de proyecto de innovación y habilidades adquiridas en su formación académica, pero sin experiencia previa en procesos formales de innovación
 
 **¿Qué reacción generó la versión A?**
 
@@ -82,13 +83,13 @@ Un estudiante con una idea desea crear una propuesta de innovación clara y atra
 
 ### Versión seleccionada para la semana 4
 
-**Versión elegida:**
+**Versión elegida:** versión B
 
 **¿Por qué?**
 
-- 
-- 
-- 
+- Resuelve directamente las dos fricciones detectadas en la versión A: la dificultad para editar apartados anteriores (ahora todas las secciones están en un mismo formulario) y la inconformidad con agregar habilidades (ahora hay etiquetas predeterminadas, además de la opción personalizada).
+- La vista previa antes de publicar genera mayor seguridad al confirmar, algo que la versión A no ofrecía.
+- Conserva la comodidad general que ya tenía la versión A para completar los pasos, sin heredar sus puntos de fricción.
 
 ---
 
@@ -117,11 +118,18 @@ Un estudiante que aún no tiene una idea propia, pero sí interés y habilidades
 
 ### Versión B: paso a paso
 
-
+1. El usuario ingresa a la aplicación y aterriza en el feed (pantalla principal), donde se muestra un catálogo de proyectos disponibles.
+2. El usuario explora el feed mediante scroll, buscando proyectos que coincidan con sus intereses o habilidades.
+3. El usuario selecciona un proyecto (tap/click), lo que lo lleva a la pantalla de detalle, donde puede ver información ampliada: descripción, equipo actual, habilidades requeridas y estado del proyecto.
+4. El usuario solicita unirse al proyecto mediante el botón "Unirse", enviando una solicitud al líder o creador del proyecto.
+5. El usuario queda en estado de espera ("Pendiente de aprobación") hasta que el líder del proyecto acepte o rechace la solicitud.
 
 ### Versión B: pantallas o momentos clave
 
-
+1. Feed / Catálogo de proyectos
+2. Momento de exploración (scroll)
+3. Pantalla de detalle del proyecto
+4. Acción de solicitar unirse
 
 ### Evidencia en Figma
 
@@ -129,21 +137,25 @@ Un estudiante que aún no tiene una idea propia, pero sí interés y habilidades
 *figma*: https://www.figma.com/design/iIRGqKt2X4FIuFm0N6cvSy/DisgnThinking?node-id=2-3&t=OtbySsItNRSYI47x-1
 
 **Enlace versión B:**
+*figma*: https://www.figma.com/proto/8ahFJjTreRCpVZPIe42V4Q/Design-Thinking-Esteban-Arnedo?node-id=16-191&t=nvbTTcOtmSF6Jc9N-1&starting-point-node-id=16%3A191
 
 ### Resultado de la validación exploratoria
 
 **¿Con quién se probó este flujo?**
 
-Yohanna y Sebastian (Posibles Usuarios).
+Yohanna y Sebastian (Versión A).
+Alberto y Kiara (Versión B).
 
 **¿Qué reacción generó la versión A?**
 
-- Yohanna: le costó unos minutos entender el feed principal; esperaba que se desplazara horizontalmente para encontrar los proyectos; recomienda agregar un filtro por rol/puesto al que se quiere postular. El resto del flujo lo completó sin dificultad.
-- Sebastian: no tuvo ninguna dificultad con el flujo; le pareció sencillo; dio el visto bueno a la paleta de colores y la distribución de los espacios.
+- Yohanna, estudiante de psicologia: le costó unos minutos entender el feed principal; esperaba que se desplazara horizontalmente para encontrar los proyectos; recomienda agregar un filtro por rol/puesto al que se quiere postular. El resto del flujo lo completó sin dificultad.
+- Sebastian, estudiante de ingeniería: no tuvo ninguna dificultad con el flujo; le pareció sencillo; dio el visto bueno a la paleta de colores y la distribución de los espacios.
 
 **¿Qué reacción generó la versión B?**
-
-
+- Alberto, estudiante de medicina: Encontró el flujo bastante intuitivo y mencionó que le recordaba a X. Como sugerencia, propuso incorporar filtros o recomendaciones personalizadas, aunque reconocemos que esa funcionalidad correspondería a una etapa posterior de implementación.
+- Kiara, Estudiante de diseño: también encontró el flujo muy intuitivo. Sin embargo, hizo dos observaciones:
+  1. Recomendó que la pantalla de detalles ponga más énfasis en la información del proyecto en sí, y menos peso visual en los comentarios.
+  2. Señaló que el botón "Unirse" se siente más como un botón de "seguir" (follow), en lugar de transmitir la acción de unirse activamente a un equipo de trabajo.
 
 ### Versión seleccionada para la semana 4
 
@@ -151,18 +163,6 @@ Yohanna y Sebastian (Posibles Usuarios).
 
 **¿Por qué?**
 
-- 
-- 
-- 
-
----
-
-### Versión seleccionada para la semana 4
-
-**Versión elegida:**
-
-**¿Por qué?**
-
-- 
-- 
-- 
+- Ambos usuarios completaron el flujo completo (feed, detalle, postulación, confirmación) sin bloqueos.
+- Sebastian no reportó ninguna dificultad y validó la paleta de colores y la distribución de espacios.
+- Yohanna solo tuvo una curva de aprendizaje breve con el feed vertical, resuelta en pocos minutos, sin abandonar el flujo.

@@ -53,7 +53,7 @@ Los estudiantes podrían no encontrar proyectos relevantes o abandonar el proces
 
 Expliquen brevemente:
 
-* Los tres flujos representan momentos importantes del recorrido de un estudiante dentro de la solución: crear una idea, encontrar oportunidades y continuar trabajando en un proyecto.
+* Los dos flujos representan momentos importantes del recorrido de un estudiante dentro de la solución: crear una idea, encontrar oportunidades.
 
 * Los flujos responden directamente a las necesidades identificadas durante las entrevistas y permiten comprobar si la propuesta realmente facilita la conexión entre estudiantes.
 
@@ -66,36 +66,35 @@ Expliquen brevemente:
 ¿Con quién validaron los prototipos de baja resolución?
 
 * Usuario potencial
-* Compañero
 
 ¿Cuántas personas participaron en total?
 
-**Cantidad:** [Agregar cantidad real]
+**Cantidad:** 4 (2 en Flujo 1, anónimos; 2 en Flujo 2, Yohanna y Sebastian)
 
 ### Flujo 1
 
 **¿Qué aprendieron al comparar las dos versiones de este flujo?**
 
-* [Registrar qué versión fue más fácil de entender]
-* [Registrar qué pasos fueron considerados útiles o innecesarios]
-* [Registrar qué versión prefirió la persona y por qué]
+* En la versión A hubo comodidad para completar la mayoría de los pasos, pero dificultad para volver a editar apartados anteriores y molestia con el apartado de agregar habilidades (se pidieron opciones predeterminadas).
+* En la versión B fue más fácil modificar la información al tener todas las secciones en un mismo formulario, y las habilidades predeterminadas agilizaron el diligenciamiento.
+* La vista previa de la versión B generó mayor seguridad al momento de confirmar la publicación.
 
 **¿Qué versión pasa a la semana 4?**
 
 * [ ] Versión A
-* [ ] Versión B
+* [x] Versión B
 
 ### Flujo 2
 
 **¿Qué aprendieron al comparar las dos versiones de este flujo?**
 
-* [Registrar si la persona prefirió explorar libremente o recibir proyectos según sus intereses]
-* [Registrar qué información necesitó para decidir si unirse]
-* [Registrar qué versión fue más clara para encontrar un proyecto]
+* Yohanna tardó unos minutos en entender el feed vertical; esperaba desplazamiento horizontal y pidió un filtro por rol/puesto al que postularse.
+* Sebastian no tuvo ninguna dificultad, completó el flujo con facilidad y validó la paleta de colores y la distribución de espacios.
+* Ambos completaron el flujo completo (feed, detalle, postulación, confirmación) sin bloqueos graves.
 
 **¿Qué versión pasa a la semana 4?**
 
-* [ ] Versión A
+* [x] Versión A
 * [ ] Versión B
 
 ---
@@ -104,8 +103,8 @@ Expliquen brevemente:
 
 ¿Qué flujos y qué versiones pasan a la semana 4?
 
-* Flujo 1: Crear y publicar una idea de proyecto → [Versión A/B]
-* Flujo 2: Descubrir y unirse a un proyecto → [Versión A/B]
+* Flujo 1: Crear y publicar una idea de proyecto → Versión B
+* Flujo 2: Descubrir y unirse a un proyecto → Versión A
 
 ---
 
