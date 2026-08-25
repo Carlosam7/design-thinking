@@ -88,11 +88,11 @@ Enumeren los elementos que van a construir y cómo se conectan entre sí.
 
 ¿Qué creen que sucederá cuando un usuario vea o use este prototipo?
 
-- 
+- La mayoría de los usuarios explorará primero los proyectos existentes en el feed antes de intentar crear una idea propia, ya que "unirse" implica menor esfuerzo y compromiso que "crear".
 
-- 
+- El feed principal funcionará como un punto de decisión claro, y los usuarios no tendrán dificultad para identificar cómo acceder a cada flujo (botón "+" vs. tarjetas de proyecto), sin necesidad de instrucciones adicionales.
 
-- 
+- Los usuarios entenderán intuitivamente que, tras publicar una idea, la pantalla de confirmación los regresará al feed sin esperar quedarse "atrapados" en una pantalla final o buscar otra forma de salir.
 
 ---
 
