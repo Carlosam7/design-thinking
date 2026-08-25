@@ -18,12 +18,15 @@
 ## Objetivo de la prueba
 
 ¿Qué quieren aprender con esta validación?
+
 Validar si los usuarios comprenden e interactúan correctamente con el prototipo integrado, identificando qué flujo priorizan al ingresar (crear una idea ó explorar proyectos existentes), y detectar puntos de confusión en la navegación entre ambos flujos y el feed compartido.
+
 ---
 
 ## Tipo de usuario que van a invitar
 
 ¿Con quiénes van a probar el prototipo?
+
 Estudiantes universitarios interesados en participar o liderar proyectos colaborativos.
 
 ¿Cuántas personas esperan invitar en esta validación?
@@ -35,7 +38,9 @@ Estudiantes universitarios interesados en participar o liderar proyectos colabor
 ## Escenario a presentar
 
 ¿Qué contexto le explicarán a la persona antes de iniciar?
+
 "Imagina que quieres unirte a un proyecto universitario en el que puedas aportar tus habilidades, o que tienes una idea propia que te gustaría convertir en un proyecto y buscar personas que se unan a ti. Vas a explorar una app pensada para esto. No hay respuestas correctas o incorrectas, solo queremos ver cómo la usarías de forma natural."
+
 ---
 
 ## Tareas o preguntas principales
