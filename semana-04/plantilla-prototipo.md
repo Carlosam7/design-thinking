@@ -52,17 +52,17 @@ Con la integración de ambos flujos pensados en la semana anterior se planea:
 
 Enumeren los elementos que van a construir y cómo se conectan entre sí.
 
-1. 
+1. Pantalla principal / feed de proyectos (punto de entrada común a los dos flujos).
 
-2.
+2. Botón "+" que dirige a la  creación del proyecto (información básica, descripción, imágenes, archivos).
 
-3.
+3. Habilidades requeridas y configuración (habilidades predeterminadas/personalizadas, número de integrantes, categoría).
 
-4.
+4. Vista previa y confirmación de publicación (Flujo 1).
 
-5.
+5. Detalle de un proyecto seleccionado desde el feed (Flujo 2).
 
-6.
+6. Postulación y confirmación de solicitud enviada (Flujo 2).
 
 ---
 
@@ -70,11 +70,9 @@ Enumeren los elementos que van a construir y cómo se conectan entre sí.
 
 ¿Cómo se conectan entre sí los flujos aprobados?
 
-- 
-
-- 
-
-- 
+- El feed de proyectos es la pantalla compartida: desde ahí el usuario decide si quiere crear una idea propia (Flujo 1) o explorar y postularse a una existente (Flujo 2).
+- Una vez publicada una idea (Flujo 1), esta debería aparecer en el mismo feed que alimenta el Flujo 2, cerrando el ciclo entre ambos flujos.
+- Las pantallas de confirmación de ambos flujos regresan al feed principal, manteniendo un único punto de retorno.
 
 ---
 
@@ -82,13 +80,7 @@ Enumeren los elementos que van a construir y cómo se conectan entre sí.
 
 ¿Cómo construirán el prototipo integrado?
 
-**Herramienta esperada:** Figma
-
-Si usan algún apoyo adicional, indíquenlo aquí:
-
-- 
-
-- 
+**Figma**
 
 ---
 
