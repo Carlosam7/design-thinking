@@ -5,49 +5,46 @@
 
 ## Información del equipo
 
-**Nombre del equipo:**
+**Nombre del equipo:** Safiro
 
 **Integrantes:**
-
+- Arango Carlos
+- Arnedo Esteban
+- Galvis Carlos
+- Monserrat Andrés
+  
 ---
 
 ## Flujos que vamos a integrar
 
 Escriban los flujos aprobados en la semana 3 que harán parte de este prototipo.
 
-1.
+1.Crear y publicar una idea de proyecto --Versión B
 
-2.
-
-3.
-
-4.
+2. Descubrir y unirse a un proyecto --Versión A
 
 ---
 
 ## Objetivo del prototipo
 
 ¿Qué quieren mostrar o comprobar al integrar estos flujos en un solo prototipo?
+Se desea evaluar cómo interactua el usuario con los flujos integrados, ver qué tienden a hacer primero al ingresar a la plataforma. Al integrar ambos flujos se busca conocer en qué se enfocan al momento de ingresar (explorar otros proyectos o crear uno propio).
 
 ---
 
 ## Alcance
 
 ¿Qué sí incluirá el prototipo?
-
-1.
-
-2.
-
-3.
+Con la integración de ambos flujos pensados en la semana anterior se planea:
+1. Pantalla principal (feed) con acceso a "crear idea" y a explorar proyectos existentes.
+2. Flujo completo de creación y publicación de una idea (Versión B: formulario por secciones, habilidades predeterminadas, vista previa y confirmación).
+3. Flujo completo de descubrimiento y postulación a un proyecto (Versión A: feed vertical, detalle, postulación, confirmación).
 
 ¿Qué no incluirá por ahora?
 
-- 
-
-- 
-
-- 
+- Vista de aceptación o rechazo por parte de un líder a postulaciones en su proyecto.
+- Filtro de búsqueda o recomendaciones personalizadas en el feed.
+- Seguimiento del proyecto una vez el equipo ya esté conformado.
 
 ---
 
@@ -55,7 +52,7 @@ Escriban los flujos aprobados en la semana 3 que harán parte de este prototipo.
 
 Enumeren los elementos que van a construir y cómo se conectan entre sí.
 
-1.
+1. 
 
 2.
 
