@@ -72,7 +72,7 @@ Enumeren los elementos que van a construir y cómo se conectan entre sí.
 
 - El feed de proyectos es la pantalla compartida: desde ahí el usuario decide si quiere crear una idea propia (Flujo 1) o explorar y postularse a una existente (Flujo 2).
 - Una vez publicada una idea (Flujo 1), esta debería aparecer en el mismo feed que alimenta el Flujo 2, cerrando el ciclo entre ambos flujos.
-- Las pantallas de confirmación de ambos flujos regresan al feed principal, manteniendo un único punto de retorno.
+- La pantalla de confirmación del primero flujo (crear idea) evía al usuario al feed principal, manteniendo un único punto de retorno.
 
 ---
 
