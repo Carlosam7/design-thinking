@@ -100,7 +100,7 @@ Enumeren los elementos que van a construir y cómo se conectan entre sí.
 
 Peguen aquí el enlace al archivo o prototipo de Figma:
 
-**Enlace:** https://www.figma.com/proto/Hc5EnaqiwzYmhjk3OE5wV1/Untitled?node-id=2-376&t=SoWWQoc2x6ufkH5N-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
+**Enlace:** https://www.figma.com/design/Hc5EnaqiwzYmhjk3OE5wV1/Untitled?node-id=2-377&t=yUx549W0sILWzhtY-1
 
 ¿Qué puede recorrer o ver una persona dentro de ese prototipo?
 
