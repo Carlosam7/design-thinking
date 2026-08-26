@@ -100,12 +100,12 @@ Enumeren los elementos que van a construir y cómo se conectan entre sí.
 
 Peguen aquí el enlace al archivo o prototipo de Figma:
 
-**Enlace:**
+**Enlace:** https://www.figma.com/proto/Hc5EnaqiwzYmhjk3OE5wV1/Untitled?node-id=2-376&t=SoWWQoc2x6ufkH5N-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
 
 ¿Qué puede recorrer o ver una persona dentro de ese prototipo?
 
-- 
+- El feed principal, desde donde puede entrar tanto a crear una idea como a explorar proyectos ya publicados.
 
-- 
+- Todo el recorrido para crear y publicar un proyecto: llenar el formulario por secciones, definir habilidades, revisar la vista previa y confirmar la publicación.
 
-- 
+- Todo el recorrido para descubrir y postularse a un proyecto: navegar el feed vertical, abrir el detalle de un proyecto, enviar la postulación y ver la confirmación.
