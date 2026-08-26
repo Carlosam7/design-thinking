@@ -95,12 +95,12 @@ Escriban entre 3 y 5 tareas o preguntas para la sesión.
 
 ¿Con cuántas personas aplicaron esta validación?
 
-**Cantidad:**
+**Cantidad:** 5
 
 ¿Qué ocurrió de manera general durante la prueba?
 
-- 
+- Algunos inconvenientes al encontrar el botón "+" que hace parte del flujo para publicar un proyecto debido a que se confunde con el botón que dirige usuarios al detalle del proyecto.
 
-- 
+- Sugerencias para cambiar de ubicación el botón de proyectos favoritos, para que sea más visible.
 
-- 
+- La interacción con los flujos tuvo menores inconvenientes a la hora de la interacción con los usuarios.
