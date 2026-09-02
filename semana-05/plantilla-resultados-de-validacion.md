@@ -82,6 +82,13 @@ Una vez dentro de cada flujo (crear o postularse), los usuarios avanzaron sin mu
 
 Las decisiones de la semana 3 (versión B para crear, versión A para descubrir) siguen teniendo sentido. El problema de usabilidad está más en la pantalla de entrada que en los pasos de adentro de cada flujo.
 
+### Hallazgo 4
+
+**¿Qué ocurrió?**
+Laura tuvo dudas sobre si los proyectos publicados en la plataforma ofrecían algún tipo de remuneración; pensó inicialmente que se trataba de algo más formal, ligado a trabajo con empresas. Además, al llegar al formulario de postulación no supo qué información debía subir: "Debo subir mi hoja de vida o eso está en el perfil?".
+
+**¿Qué significa?**
+El feed y las tarjetas de proyecto no comunican con claridad que se trata de proyectos colaborativos estudiantiles y no de ofertas laborales remuneradas. Falta una señal visual o textual que aclare esto desde el primer vistazo. Por otro lado, el formulario de postulación no deja claro qué datos toma automáticamente del perfil del usuario y cuáles debe completar en ese momento, lo que genera incertidumbre sobre si falta adjuntar algo adicional (como hoja de vida o portafolio).
 ---
 
 ## Dificultades detectadas
@@ -92,6 +99,8 @@ Las decisiones de la semana 3 (versión B para crear, versión A para descubrir)
 - Dificultad para encontrar favoritos; sugirieron cambiarlo de lugar (semana 4).
 - _[Pendiente: ver si esto sigue pasando después de los ajustes en la semana 5]_
 - En la semana 3, Yohanna esperaba un feed horizontal y pidió filtros por el rol al que quería postularse.
+- Semana 5 (Laura): dudas sobre si los proyectos tienen algún tipo de remuneración, pensando que podía tratarse de trabajo formal con empresas.
+- Semana 5 (Laura): no supo con certeza qué información debía subir al postularse (si debía adjuntar hoja de vida o si esos datos ya estaban en su perfil).
 
 ---
 
@@ -103,6 +112,7 @@ Las decisiones de la semana 3 (versión B para crear, versión A para descubrir)
 - La vista previa antes de publicar les dio confianza porque vieron cómo se vería su idea en el feed.
 - Las tarjetas con habilidades, cupos y categoría ayudaron a decidir rápido si un proyecto les interesaba.
 - Las pantallas de confirmación dejaron claro que ya terminaron la tarea.
+- Laura destacó el aire tipo Instagram del feed, que le resultó fácil de entender, con los botones y la información necesaria.
 - _[Pendiente: agregar comentarios de la ronda de pruebas de la semana 5]_
 
 ---
@@ -112,6 +122,8 @@ Las decisiones de la semana 3 (versión B para crear, versión A para descubrir)
 Registren frases importantes de los usuarios.
 
 > _[Pendiente: poner citas de la validación de la semana 5]_
+> Semana 5 (Laura): "Debo subir mi hoja de vida o eso está en el perfil?"
+> Semana 5 (Laura): "Todo me parece bien, me gusta el hecho de que tenga un aire a Instagram. Es fácil de entender, tiene los botones e información necesaria. Está bien."
 
 > Semana 4: varios usuarios confundieron el botón "+" con la acción de entrar al detalle de un proyecto.
 
